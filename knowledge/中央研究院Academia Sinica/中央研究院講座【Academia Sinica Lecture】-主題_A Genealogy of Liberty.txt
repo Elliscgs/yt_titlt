@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '1 則留言', 'Desc': '中央研究院講座【Academia Sinica Lecture】\n日期/2013-05-15  \n地點/Academia Sinica\n主題/A Genealogy of Liberty\n主講人/Prof. Quentin Skinner(2006年巴仁獎得主)', 'DisLikes': '0', 'Duration': '2:03:38', 'Likes': '5', 'Publish_Date': '2020年7月29日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '中央研究院講座【Academia Sinica Lecture】-主題/A Genealogy of Liberty', 'Views': '觀看次數：221次'}
+ 
+--------------------------------------------------------------------------------
+ 

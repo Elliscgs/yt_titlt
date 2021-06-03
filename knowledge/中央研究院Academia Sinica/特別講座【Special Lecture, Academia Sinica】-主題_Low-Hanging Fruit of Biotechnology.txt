@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '特別講座【Special Lecture, Academia Sinica】\n日期/2015-01-15  \n地點/Academia Sinica\n主題/Low-Hanging Fruit of Biotechnology\n主講人/ Dr. Lan-Bo Chen陳良博院士(美國哈佛大學醫學院病理學退休榮譽教授)', 'DisLikes': '1', 'Duration': '1:25:30', 'Likes': '1', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '特別講座【Special Lecture, Academia Sinica】-主題/Low-Hanging Fruit of Biotechnology', 'Views': '觀看次數：259次'}
+ 
+--------------------------------------------------------------------------------
+ 

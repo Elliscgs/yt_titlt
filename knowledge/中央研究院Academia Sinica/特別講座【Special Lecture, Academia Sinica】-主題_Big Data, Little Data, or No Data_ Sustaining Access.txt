@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '特別講座【Special Lecture, Academia Sinica】\n日期/2016-12-06  \n地點/Academia Sinica\n主題/Big Data, Little Data, or No Data? Sustaining Access to Scholarship\n主講人/ Dr. Christine Borgman(美國加州大學洛杉磯分校講座教授)', 'DisLikes': '1', 'Duration': '1:32:17', 'Likes': '9', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '特別講座【Special Lecture, Academia Sinica】-主題/Big Data, Little Data, or No Data? Sustaining Access', 'Views': '觀看次數：443次'}
+ 
+--------------------------------------------------------------------------------
+ 

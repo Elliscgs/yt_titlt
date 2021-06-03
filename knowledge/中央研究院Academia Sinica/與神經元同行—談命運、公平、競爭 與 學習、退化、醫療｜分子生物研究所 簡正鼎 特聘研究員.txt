@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '19 則留言', 'Desc': '107年11月份知識饗宴科普講座\n\n主講人：簡正鼎特聘研究員 (本院分子生物研究所)\n主持人：孫以瀚執行秘書 (本院學術諮詢總會)\n\n與神經元同行—談命運、公平、競爭 與 學習、退化、醫療\nAlong With the Neuron: Fate, Fairness, Competition & Learning, Degeneration, Medication', 'DisLikes': '82', 'Duration': '1:59:27', 'Likes': '325', 'Publish_Date': '2019年1月31日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '與神經元同行—談命運、公平、競爭 與 學習、退化、醫療｜分子生物研究所 簡正鼎 特聘研究員', 'Views': '觀看次數：90,399次'}
+ 
+--------------------------------------------------------------------------------
+ 

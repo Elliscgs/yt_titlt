@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '2 則留言', 'Desc': '主講人：李琳山特聘教授（臺灣大學電機工程學系）\n主持人：本院彭旭明副院長', 'DisLikes': '0', 'Duration': '2:17:15', 'Likes': '2', 'Publish_Date': '2017年6月12日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '芝麻開門─用聲音開啟知識寶藏的大門｜臺灣大學電機工程學系  李琳山特聘教授', 'Views': '觀看次數：372次'}
+ 
+--------------------------------------------------------------------------------
+ 

@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '106年10月知識饗宴\n\n主講人：許雅儒研究員(本院地球科學研究所)\n主持人：本院周美吟副院長\n\n隱沒帶大地震與海嘯\nGreat Subduction Zone Earthquake and Tsunami', 'DisLikes': '0', 'Duration': '1:31:43', 'Likes': '3', 'Publish_Date': '2018年1月11日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '隱沒帶大地震與海嘯 |地球科學研究所   許雅儒研究員', 'Views': '觀看次數：669次'}
+ 
+--------------------------------------------------------------------------------
+ 

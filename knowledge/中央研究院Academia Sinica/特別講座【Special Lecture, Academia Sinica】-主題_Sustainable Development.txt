@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '特別講座【Special Lecture, Academia Sinica】\n日期/2012-10-31  \n地點/Academia Sinica\n主題/Sustainable Development\n主講人/Dr. Michael M. Crow(第16任亞歷桑納州州立大學校長)', 'DisLikes': '0', 'Duration': '1:23:51', 'Likes': '0', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '特別講座【Special Lecture, Academia Sinica】-主題/Sustainable Development', 'Views': '觀看次數：59次'}
+ 
+--------------------------------------------------------------------------------
+ 

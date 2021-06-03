@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '中央研究院講座【Academia Sinica Lecture】\n日期/2014-03-25  \n地點/Academia Sinica\n主題/Global Climate Change Forced by Greenhouse Gases from Human Activities\n主講人/Dr. Ralph J. Cicerone(2005-2016美國國家科學院院長)', 'DisLikes': '0', 'Duration': '1:39:57', 'Likes': '0', 'Publish_Date': '2020年7月29日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '中央研究院講座【Academia Sinica Lecture】-主題/Global Climate Change Forced by Greenhouse Gases from Human', 'Views': '觀看次數：115次'}
+ 
+--------------------------------------------------------------------------------
+ 

@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '1 則留言', 'Desc': '107年7月份知識饗宴\n\n主講人：林正洪研究員(本院地球科學研究所)\n主持人：周美吟副院長\n\n臺北都會VS龐貝古城\nTaipei Metropolis Versus Pompeii Ancient City', 'DisLikes': '1', 'Duration': '1:58:25', 'Likes': '20', 'Publish_Date': '2019年3月22日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '臺北都會VS 龐貝古城｜地球科學研究所 林正洪研究員', 'Views': '觀看次數：1,749次'}
+ 
+--------------------------------------------------------------------------------
+ 

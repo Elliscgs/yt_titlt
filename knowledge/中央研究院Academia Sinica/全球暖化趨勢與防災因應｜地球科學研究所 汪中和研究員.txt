@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '105年1月知識饗宴\n\n全球暖化趨勢與防災因應\n\n汪中和研究員(本院地球科學研究所)', 'DisLikes': '0', 'Duration': '1:56:30', 'Likes': '4', 'Publish_Date': '2017年5月14日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '全球暖化趨勢與防災因應｜地球科學研究所 汪中和研究員', 'Views': '觀看次數：739次'}
+ 
+--------------------------------------------------------------------------------
+ 

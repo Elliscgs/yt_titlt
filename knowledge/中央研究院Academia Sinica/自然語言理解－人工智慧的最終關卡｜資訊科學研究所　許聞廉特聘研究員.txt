@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '觀看次數：5,994次 • 串流直播日期：2017年1月10日 • 106年1月知識饗宴\n\n主講人：許聞廉特聘研究員兼所長(本院資訊科學研究所)\n主持人：本院周美吟副院長\n\n自然語言理解－人工智慧的最終關卡\nNatural Language Understanding - The Ultimate Goal of AI', 'Desc': '106年1月知識饗宴\n\n主講人：許聞廉特聘研究員兼所長(本院資訊科學研究所)\n主持人：本院周美吟副院長\n\n自然語言理解－人工智慧的最終關卡\nNatural Language Understanding - The Ultimate Goal of AI', 'DisLikes': '3', 'Duration': '2:01:32', 'Likes': '69', 'Publish_Date': '串流直播日期：2017年1月10日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '自然語言理解－人工智慧的最終關卡｜資訊科學研究所\u3000許聞廉特聘研究員', 'Views': '觀看次數：5,994次'}
+ 
+--------------------------------------------------------------------------------
+ 

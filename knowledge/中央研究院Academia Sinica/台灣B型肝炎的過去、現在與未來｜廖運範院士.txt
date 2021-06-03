@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '1 則留言', 'Desc': '102年吳大猷院長講座\n\n「台灣B型肝炎的過去、現在與未來」\n\n主講人：廖運範院士（長庚大學醫學院特聘講座教授 ）\n主持人：本院陳建仁副院長', 'DisLikes': '2', 'Duration': '2:00:59', 'Likes': '10', 'Publish_Date': '2017年6月13日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '台灣B型肝炎的過去、現在與未來｜廖運範院士', 'Views': '觀看次數：931次'}
+ 
+--------------------------------------------------------------------------------
+ 

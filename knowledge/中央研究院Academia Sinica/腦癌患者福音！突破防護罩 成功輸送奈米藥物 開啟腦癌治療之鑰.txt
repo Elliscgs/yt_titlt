@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '1 則留言', 'Desc': 'A New Way to Breach the Blood-Brain Barrier when Treating Malignant Glioblastoma\n－\n血腦障壁(blood brain barrier)是腦瘤治療的主要障礙，化療藥物被阻隔在外，無法有效殺死癌細胞。中央研究院生物醫學科學研究所謝清河研究員團隊發現，在靜脈注射極低劑量的血管生長因子(VEGF)，能夠使奈米化療藥物－微脂體小紅莓（LipoDox）安全且有效地輸送至腦瘤部位，成功找到這把開啟血腦障壁防護罩的鑰匙。\n\n◇新聞稿\nhttps://www.sinica.edu.tw/ch/news/6125\n\n◆Press Release\nhttps://www.sinica.edu.tw/en/news/6125', 'DisLikes': '0', 'Duration': '1:45', 'Likes': '16', 'Publish_Date': '2019年1月20日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '腦癌患者福音！突破防護罩 成功輸送奈米藥物 開啟腦癌治療之鑰', 'Views': '觀看次數：2,115次'}
+ 
+--------------------------------------------------------------------------------
+ 

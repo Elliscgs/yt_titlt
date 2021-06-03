@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '104年【朱家驊院長講座】\n\n主講人：朱有花特聘研究員兼所長（本院天文及天文物理研究所）\n主持人：王瑜副院長', 'DisLikes': '0', 'Duration': '1:49:31', 'Likes': '8', 'Publish_Date': '2017年5月31日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '恆星吹的氣泡 | 天文及天文物理研究所  朱有花特聘研究員', 'Views': '觀看次數：338次'}
+ 
+--------------------------------------------------------------------------------
+ 

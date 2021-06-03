@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '2014年院士會議專題演講\n主題/個人化的預防醫學\n主講人/陳建仁院士', 'DisLikes': '0', 'Duration': '26:47', 'Likes': '3', 'Publish_Date': '2020年7月29日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '2014年院士會議專題演講-主題/個人化的預防醫學', 'Views': '觀看次數：93次'}
+ 
+--------------------------------------------------------------------------------
+ 

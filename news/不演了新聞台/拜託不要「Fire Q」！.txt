@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCRvjnobFht8a6vW4BFVl1xQ', 'ChannelName': '不演了新聞台', 'Comments': '691 則留言', 'Desc': '「大罷免時代」開啟！新黨高喊「Fire Q」！但，此舉恐怕反倒幫了陳柏惟脫出困境，也幫了民進黨解決難題...。', 'DisLikes': '109', 'Duration': '7:02', 'Likes': '4054', 'Publish_Date': '2020年6月10日', 'Subscribers': '4.94萬 位訂閱者', 'Title': '拜託不要「Fire Q」！', 'Views': '觀看次數：46,069次'}
+ 
+--------------------------------------------------------------------------------
+ 

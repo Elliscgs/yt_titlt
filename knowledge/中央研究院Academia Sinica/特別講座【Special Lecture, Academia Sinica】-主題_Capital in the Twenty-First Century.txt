@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '特別講座【Special Lecture, Academia Sinica】\n日期/2014-11-17  \n地點/Academia Sinica\n主題/Capital in the Twenty-First Century\n主講人/ Dr. Thomas Piketty(2013伊爾約·約翰松獎得主)', 'DisLikes': '0', 'Duration': '1:38:05', 'Likes': '0', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '特別講座【Special Lecture, Academia Sinica】-主題/Capital in the Twenty-First Century', 'Views': '觀看次數：163次'}
+ 
+--------------------------------------------------------------------------------
+ 

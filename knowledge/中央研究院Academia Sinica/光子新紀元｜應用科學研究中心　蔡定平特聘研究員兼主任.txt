@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '1 則留言', 'Desc': '105年10月知識饗宴\n\n「光子新紀元」\n\n主講人：蔡定平主任 (本院應用科學研究中心特聘研究員)\n主持人：周美吟副院長', 'DisLikes': '0', 'Duration': '1:58:08', 'Likes': '6', 'Publish_Date': '2017年5月9日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '光子新紀元｜應用科學研究中心\u3000蔡定平特聘研究員兼主任', 'Views': '觀看次數：441次'}
+ 
+--------------------------------------------------------------------------------
+ 

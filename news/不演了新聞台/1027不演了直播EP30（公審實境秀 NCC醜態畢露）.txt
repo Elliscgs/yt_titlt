@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCRvjnobFht8a6vW4BFVl1xQ', 'ChannelName': '不演了新聞台', 'Comments': '252 則留言', 'Desc': '', 'DisLikes': '15', 'Duration': '5:30', 'Likes': '3915', 'Publish_Date': '串流直播日期：2020年10月27日', 'Subscribers': '4.93萬 位訂閱者', 'Title': '1027不演了直播EP30（公審實境秀 NCC醜態畢露）', 'Views': '觀看次數：26,795次'}
+ 
+--------------------------------------------------------------------------------
+ 

@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '2018年新科院士-主講人: 楊威迦院士\n講題: Data-Enabled Design of Engineering Systems – A Multi-Fidelity Approach\n日期: 2018-06-29', 'DisLikes': '0', 'Duration': '1:18:41', 'Likes': '3', 'Publish_Date': '2020年7月17日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '2018年新科院士-主講人: 楊威迦院士/講題: Data-Enabled Design of Engineering Systems – A Multi-Fidelity Approach', 'Views': '觀看次數：147次'}
+ 
+--------------------------------------------------------------------------------
+ 

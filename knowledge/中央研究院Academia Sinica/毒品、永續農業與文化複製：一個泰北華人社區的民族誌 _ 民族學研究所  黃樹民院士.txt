@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '2 則留言', 'Desc': '106年王世杰院長講座\n\n主講人：黃樹民院士(本院民族學研究所)\n主持人：本院黃進興副院長\n\n毒品、永續農業與文化複製：一個泰北華人社區的民族誌\nDrugs, Sustainable Agriculture, and Cultural Reproduction: An Ethnography of a Chinese Community in Northern Thailand', 'DisLikes': '0', 'Duration': '1:59:26', 'Likes': '4', 'Publish_Date': '2017年5月11日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '毒品、永續農業與文化複製：一個泰北華人社區的民族誌 | 民族學研究所  黃樹民院士', 'Views': '觀看次數：509次'}
+ 
+--------------------------------------------------------------------------------
+ 

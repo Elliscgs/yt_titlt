@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '講題：新冠病毒研究利器-P3實驗室\n講者：本院生物醫學科學研究所林宜玲研究員', 'DisLikes': '0', 'Duration': '1:07:26', 'Likes': '50', 'Publish_Date': '串流直播日期：2020年11月10日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '中研講堂嘉義場-【場次一】講題：新冠病毒研究利器-P3實驗室', 'Views': '觀看次數：1,663次'}
+ 
+--------------------------------------------------------------------------------
+ 

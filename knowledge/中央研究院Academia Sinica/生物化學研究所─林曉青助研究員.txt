@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '1 則留言', 'Desc': '生物化學研究所─林曉青助研究員\nInstitute of Biological Chemistry\nDr. Lin, Hsiao-Ching (Assistant Research Fellow)', 'DisLikes': '0', 'Duration': '3:56', 'Likes': '22', 'Publish_Date': '2018年9月4日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '生物化學研究所─林曉青助研究員', 'Views': '觀看次數：1,652次'}
+ 
+--------------------------------------------------------------------------------
+ 

@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '2 則留言', 'Desc': '2016年院士會議專題演講\n主題/Pushing Lithography for21 Generations andMore\n主講人/林本堅院士\n日期:2016.07.18', 'DisLikes': '0', 'Duration': '1:13:27', 'Likes': '19', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '2016年院士會議專題演講-主講人/林本堅院士', 'Views': '觀看次數：1,323次'}
+ 
+--------------------------------------------------------------------------------
+ 

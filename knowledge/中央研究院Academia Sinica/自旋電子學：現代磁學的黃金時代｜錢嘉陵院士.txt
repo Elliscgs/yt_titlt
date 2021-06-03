@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '47 則留言', 'Desc': '109年知識饗宴—蔡元培院長科普講座\n\n主講人：錢嘉陵院士 (約翰霍普金斯大學物理系講座教授)\n主持人：周美吟副院長\n\n\n「自旋電子學：現代磁學的黃金時代」\nSpintronics: the Golden Era of Modern Magnetism', 'DisLikes': '104', 'Duration': '1:37:32', 'Likes': '752', 'Publish_Date': '串流直播日期：2020年1月7日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '自旋電子學：現代磁學的黃金時代｜錢嘉陵院士', 'Views': '觀看次數：141,493次'}
+ 
+--------------------------------------------------------------------------------
+ 

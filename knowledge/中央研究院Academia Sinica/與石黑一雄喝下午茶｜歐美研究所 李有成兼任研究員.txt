@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '90週年院慶系列活動─中研院臺南場科普演講-01\n\n與石黑一雄喝下午茶\n講者：本院歐美研究所李有成兼任研究員', 'DisLikes': '2', 'Duration': '1:24:24', 'Likes': '26', 'Publish_Date': '2018年8月26日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '與石黑一雄喝下午茶｜歐美研究所 李有成兼任研究員', 'Views': '觀看次數：1,187次'}
+ 
+--------------------------------------------------------------------------------
+ 

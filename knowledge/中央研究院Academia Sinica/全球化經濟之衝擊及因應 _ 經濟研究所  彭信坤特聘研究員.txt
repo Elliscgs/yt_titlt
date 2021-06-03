@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '4 則留言', 'Desc': '104年【王世杰院長講座】\n\n主講人：彭信坤特聘研究員（本院經濟研究所）\n主持人：王汎森副院長', 'DisLikes': '1', 'Duration': '2:02:25', 'Likes': '2', 'Publish_Date': '2017年5月31日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '全球化經濟之衝擊及因應 | 經濟研究所  彭信坤特聘研究員', 'Views': '觀看次數：357次'}
+ 
+--------------------------------------------------------------------------------
+ 

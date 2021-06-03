@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '特別講座【Special Lecture, Academia Sinica】\n日期/2015-10-27  \n地點/Academia Sinica\n主題/The Structural Basis for the Functional Diversity of the lmmunoglobulin Fc Domain\n主講人/ Dr. Jeffrey Ravetch (2015年沃爾夫醫學獎得主)', 'DisLikes': '0', 'Duration': '1:26:29', 'Likes': '6', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '特別講座【Special Lecture, Academia Sinica】-主題/The Structural Basis for the Functional Diversity of the', 'Views': '觀看次數：429次'}
+ 
+--------------------------------------------------------------------------------
+ 

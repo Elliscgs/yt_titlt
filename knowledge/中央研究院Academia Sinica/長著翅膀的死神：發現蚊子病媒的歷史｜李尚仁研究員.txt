@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '4 則留言', 'Desc': '109年知識饗宴—王世杰院長科普講座「長著翅膀的死神：發現蚊子病媒的歷史」\n\n主講人：李尚仁研究員 (本院歷史語言研究所)\n主持人：黃進興副院長\n\n長著翅膀的死神：發現蚊子病媒的歷史\nThe Discovery of Mosquito as Disease Vector: A Medical History', 'DisLikes': '1', 'Duration': '1:40:25', 'Likes': '47', 'Publish_Date': '串流直播日期：2020年3月10日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '長著翅膀的死神：發現蚊子病媒的歷史｜李尚仁研究員', 'Views': '觀看次數：1,656次'}
+ 
+--------------------------------------------------------------------------------
+ 

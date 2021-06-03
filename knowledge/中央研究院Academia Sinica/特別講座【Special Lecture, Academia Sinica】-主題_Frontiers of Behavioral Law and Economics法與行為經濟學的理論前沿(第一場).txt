@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '特別講座【Special Lecture, Academia Sinica】\n日期/2015-12-11 \n地點/Academia Sinica\n主題/Frontiers of Behavioral Law and Economics法與行為經濟學的理論前沿\n(第一場)\n主講人/Prof. Cass R. Sunstein(哈佛法學院的羅伯特·沃姆斯利講座教授)', 'DisLikes': '0', 'Duration': '1:46:43', 'Likes': '1', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '特別講座【Special Lecture, Academia Sinica】-主題/Frontiers of Behavioral Law and Economics法與行為經濟學的理論前沿(第一場)', 'Views': '觀看次數：120次'}
+ 
+--------------------------------------------------------------------------------
+ 

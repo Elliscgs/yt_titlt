@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '5 則留言', 'Desc': '第一屆諾貝爾獎高峰會（Nobel Prize Summit）線上會議於本（110）年4月26至28日舉行。\n\n中央研究院廖俊智院長以「艱鉅問題的科學解方（Hard Problems: Science Solutions）」為題發表短講。他提及2050年要達到淨零排放（Net Zero）有三個面向的科學技術，包括\n\n1. 碳捕獲及轉化技術\n2. 空氣中捕碳技術\n3. 避免二氧化碳形成的技術\n\n・https://reurl.cc/0DNRdb （Hard Problems: Science Solutions）（English）', 'DisLikes': '1', 'Duration': '5:31', 'Likes': '44', 'Publish_Date': '2021年5月1日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '艱鉅問題的科學解方｜廖俊智院長｜2021諾貝爾獎高峰會 Hard Problems: Science Solutions｜James Liao｜Nobel Prize Summit 2021', 'Views': '觀看次數：1,281次'}
+ 
+--------------------------------------------------------------------------------
+ 

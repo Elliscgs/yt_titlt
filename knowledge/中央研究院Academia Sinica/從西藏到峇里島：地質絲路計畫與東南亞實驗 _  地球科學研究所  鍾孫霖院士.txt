@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '106年蔡元培院長講座\n\n主講人：鍾孫霖院士(本院地球科學研究所)\n主持人：本院周美吟副院長\n\n從西藏到峇里島：地質絲路計畫與東南亞實驗\nTibet to Timor: Geologic Silk Road Project and SEA Experiment', 'DisLikes': '1', 'Duration': '1:53:31', 'Likes': '11', 'Publish_Date': '2017年5月12日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '從西藏到峇里島：地質絲路計畫與東南亞實驗 |  地球科學研究所  鍾孫霖院士', 'Views': '觀看次數：652次'}
+ 
+--------------------------------------------------------------------------------
+ 

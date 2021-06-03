@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '11 則留言', 'Desc': '109年知識饗宴—錢思亮院長科普講座「癌不再是癌」\n\n主講人：洪明奇院士 (中國醫藥大學校長)\n主持人：劉扶東副院長\n\n\n癌不再是癌\nCancer is No Longer Cancer', 'DisLikes': '8', 'Duration': '1:42:39', 'Likes': '109', 'Publish_Date': '串流直播日期：2020年2月18日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '癌不再是癌｜洪明奇院士', 'Views': '觀看次數：9,072次'}
+ 
+--------------------------------------------------------------------------------
+ 

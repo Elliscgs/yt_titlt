@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '30 則留言', 'Desc': '107年5月份知識饗宴\n\n主講人：吳世雄特聘研究員 (本院生物化學研究所)\n主持人：劉扶東副院長\n\n糖質分子與生命的關係\nWhat Roles Carbohydrate Molecules Play in Life', 'DisLikes': '242', 'Duration': '1:56:57', 'Likes': '976', 'Publish_Date': '串流直播日期：2018年5月29日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '糖質分子與生命的關係｜生物化學研究所 吳世雄特聘研究員', 'Views': '觀看次數：211,169次'}
+ 
+--------------------------------------------------------------------------------
+ 

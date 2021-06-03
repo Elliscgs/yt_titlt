@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '2 則留言', 'Desc': '(三)當人工智慧遇到多媒體\n講者：本院資訊科學研究所廖弘源特聘研究員兼所長', 'DisLikes': '1', 'Duration': '53:09', 'Likes': '32', 'Publish_Date': '串流直播日期：2019年6月29日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '厚科普！「研講堂」(三)當人工智慧遇到多媒體', 'Views': '觀看次數：2,796次'}
+ 
+--------------------------------------------------------------------------------
+ 

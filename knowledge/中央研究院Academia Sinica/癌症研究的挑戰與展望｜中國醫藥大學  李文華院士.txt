@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '主講人：李文華院士（中國醫藥大學校長）\n主持人：陳建仁副院長', 'DisLikes': '0', 'Duration': '1:28:20', 'Likes': '1', 'Publish_Date': '2017年6月9日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '癌症研究的挑戰與展望｜中國醫藥大學  李文華院士', 'Views': '觀看次數：229次'}
+ 
+--------------------------------------------------------------------------------
+ 

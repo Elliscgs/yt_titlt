@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '#人工智慧 #AI #研講堂\n當人工智慧遇到多媒體\n講者：本院資訊科學研究所廖弘源特聘研究員兼所長\n後製剪輯：Art Jung', 'DisLikes': '1', 'Duration': '7:06', 'Likes': '29', 'Publish_Date': '2019年11月4日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '當人工智慧遇到多媒體（精華篇）｜廖弘源特聘研究員', 'Views': '觀看次數：1,574次'}
+ 
+--------------------------------------------------------------------------------
+ 

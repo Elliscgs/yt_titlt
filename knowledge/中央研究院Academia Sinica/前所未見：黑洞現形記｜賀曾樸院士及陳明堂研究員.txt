@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '4 則留言', 'Desc': '講  題：前所未見：黑洞現形記 \nLittle known stories behind imaging a monstrous black hole\n主講人：賀曾樸院士及陳明堂研究員(本院天文及天文物理研究所）', 'DisLikes': '1', 'Duration': '1:39:03', 'Likes': '24', 'Publish_Date': '2019年12月31日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '前所未見：黑洞現形記｜賀曾樸院士及陳明堂研究員', 'Views': '觀看次數：1,133次'}
+ 
+--------------------------------------------------------------------------------
+ 

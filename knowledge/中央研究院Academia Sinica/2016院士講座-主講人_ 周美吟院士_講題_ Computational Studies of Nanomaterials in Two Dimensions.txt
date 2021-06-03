@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '2016院士講座-主講人: 周美吟院士\n講題: Computational Studies of Nanomaterials in Two Dimensions\n日期: 2016-07-01', 'DisLikes': '0', 'Duration': '31:35', 'Likes': '3', 'Publish_Date': '2020年7月17日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '2016院士講座-主講人: 周美吟院士/講題: Computational Studies of Nanomaterials in Two Dimensions', 'Views': '觀看次數：378次'}
+ 
+--------------------------------------------------------------------------------
+ 

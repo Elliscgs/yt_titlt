@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '106年朱家驊院長講座\n\n主講人：牟中原院士(國立臺灣大學化學系)\n主持人：周美吟副院長\n\n水： 一個特異的液體\nWater: A Most Special Liquid', 'DisLikes': '0', 'Duration': '1:41:22', 'Likes': '6', 'Publish_Date': '串流直播日期：2017年6月2日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '水: 一個特異的液體｜牟中原院士', 'Views': '觀看次數：586次'}
+ 
+--------------------------------------------------------------------------------
+ 

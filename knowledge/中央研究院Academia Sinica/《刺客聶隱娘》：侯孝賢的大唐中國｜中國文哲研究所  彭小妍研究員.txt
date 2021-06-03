@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '8 則留言', 'Desc': '107年12月份知識饗宴科普講座\n\n主講人：彭小妍研究員(本院中國文哲研究所)\n主持人：黃進興副院長\n\n《刺客聶隱娘》：侯孝賢的大唐中國\nThe Assassin: Hou Hsiao-hsien’s World of Tang China', 'DisLikes': '1', 'Duration': '2:07:09', 'Likes': '51', 'Publish_Date': '2019年3月22日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '《刺客聶隱娘》：侯孝賢的大唐中國｜中國文哲研究所  彭小妍研究員', 'Views': '觀看次數：3,199次'}
+ 
+--------------------------------------------------------------------------------
+ 

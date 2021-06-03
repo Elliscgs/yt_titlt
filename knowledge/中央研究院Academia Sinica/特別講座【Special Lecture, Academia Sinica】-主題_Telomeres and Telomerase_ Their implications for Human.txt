@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '1 則留言', 'Desc': '特別講座【Special Lecture, Academia Sinica】\n日期/2012-11-09  \n地點/Academia Sinica\n主題/Telomeres and Telomerase: Their implications for Human Health and Disease\n主講人/ Dr. Elizabeth Blackburn(2009年諾貝爾生理學或醫學獎得主)', 'DisLikes': '0', 'Duration': '1:41:25', 'Likes': '2', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '特別講座【Special Lecture, Academia Sinica】-主題/Telomeres and Telomerase: Their implications for Human', 'Views': '觀看次數：161次'}
+ 
+--------------------------------------------------------------------------------
+ 

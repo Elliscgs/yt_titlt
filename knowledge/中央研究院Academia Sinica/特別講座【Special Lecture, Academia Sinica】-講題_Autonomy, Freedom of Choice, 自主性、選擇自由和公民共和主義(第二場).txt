@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '特別講座【Special Lecture, Academia Sinica】\n日期/2015-12-11 \n地點/Academia Sinica\n講題/Autonomy, Freedom of Choice, and Civic Republicanism自主性、選擇自由和公民共和主義(第二場)\n主講人/Prof. Cass R. Sunstein(哈佛法學院的羅伯特·沃姆斯利講座教授)', 'DisLikes': '1', 'Duration': '1:57:36', 'Likes': '4', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '特別講座【Special Lecture, Academia Sinica】-講題/Autonomy, Freedom of Choice, 自主性、選擇自由和公民共和主義(第二場)', 'Views': '觀看次數：537次'}
+ 
+--------------------------------------------------------------------------------
+ 

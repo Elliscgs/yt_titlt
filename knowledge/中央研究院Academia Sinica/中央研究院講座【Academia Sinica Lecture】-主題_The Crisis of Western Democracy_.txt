@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '2 則留言', 'Desc': '中央研究院講座【Academia Sinica Lecture】\n日期/2016-04-12  \n地點/Academia Sinica\n主題/The Crisis of Western Democracy?\n主講人/Dr. Charles Taylor(2015年克魯格獎得主)', 'DisLikes': '0', 'Duration': '1:41:25', 'Likes': '4', 'Publish_Date': '2020年7月29日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '中央研究院講座【Academia Sinica Lecture】-主題/The Crisis of Western Democracy?', 'Views': '觀看次數：193次'}
+ 
+--------------------------------------------------------------------------------
+ 

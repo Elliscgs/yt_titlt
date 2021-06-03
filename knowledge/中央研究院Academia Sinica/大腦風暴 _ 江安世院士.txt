@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '104年【吳大猷院長講座】\n\n主講人：江安世院士（國立清華大學生命科學院院長）\n主持人：陳建仁副院長', 'DisLikes': '3', 'Duration': '2:16:51', 'Likes': '31', 'Publish_Date': '2017年5月31日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '大腦風暴 | 江安世院士', 'Views': '觀看次數：1,814次'}
+ 
+--------------------------------------------------------------------------------
+ 

@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '特別講座【Special Lecture, Academia Sinica】-主題/\n日期/2013-03-11  \n地點/Academia Sinica\n主題/Reading the Human Genome\n主講人/Dr. Sydney Brenner(2002年諾貝爾生理學或醫學獎得主)', 'DisLikes': '0', 'Duration': '1:45:40', 'Likes': '3', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '特別講座【Special Lecture, Academia Sinica】-主題/Reading the Human Genome', 'Views': '觀看次數：87次'}
+ 
+--------------------------------------------------------------------------------
+ 

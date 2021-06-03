@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '特別講座【Special Lecture, Academia Sinica】\n日期/2015-09-14  \n地點/Academia Sinica\n主題/Development of New Drugs for the Treatment of Alzheimer’s Disease\n主講人/ Dr. Bernard Meunier (法國法蘭西學院自然科學院院長)', 'DisLikes': '0', 'Duration': '1:21:27', 'Likes': '0', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '特別講座【Special Lecture, Academia Sinica】-主題/Development of New Drugs for the Treatment of Alzheimer’s', 'Views': '觀看次數：148次'}
+ 
+--------------------------------------------------------------------------------
+ 

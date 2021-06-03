@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '2 則留言', 'Desc': '104年【錢思亮院長講座】\n\n主講人：周必泰教授(國立臺灣大學化學系)\n主持人：國立臺灣大學楊泮池校長', 'DisLikes': '0', 'Duration': '1:14:01', 'Likes': '7', 'Publish_Date': '2017年5月31日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '從質子、氫鍵到水分子的化學藝術 | 周必泰教授', 'Views': '觀看次數：627次'}
+ 
+--------------------------------------------------------------------------------
+ 

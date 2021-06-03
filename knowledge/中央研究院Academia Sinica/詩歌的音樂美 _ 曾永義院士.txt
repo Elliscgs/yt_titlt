@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '104年6月知識饗宴\n\n主講人：曾永義院士(世新大學講座教授)\n主持人：王瑜副院長', 'DisLikes': '0', 'Duration': '2:08:25', 'Likes': '4', 'Publish_Date': '2017年5月31日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '詩歌的音樂美 | 曾永義院士', 'Views': '觀看次數：213次'}
+ 
+--------------------------------------------------------------------------------
+ 

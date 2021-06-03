@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '316 則留言', 'Desc': '104年【蔡元培院長講座】\n\n主講人：周美吟院士（本院原子與分子科學研究所特聘研究員 ）\n主持人：王瑜副院長', 'DisLikes': '429', 'Duration': '0:20', 'Likes': '2665', 'Publish_Date': '2017年5月31日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '奈米世界中的量子科學 | 周美吟院士', 'Views': '觀看次數：457,987次'}
+ 
+--------------------------------------------------------------------------------
+ 

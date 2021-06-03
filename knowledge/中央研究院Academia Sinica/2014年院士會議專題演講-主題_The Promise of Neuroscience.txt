@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '2014年院士會議專題演講\n主題/The Promise of Neuroscience\n主講人/蔡立慧院士', 'DisLikes': '0', 'Duration': '39:22', 'Likes': '0', 'Publish_Date': '2020年7月29日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '2014年院士會議專題演講-主題/The Promise of Neuroscience', 'Views': '觀看次數：70次'}
+ 
+--------------------------------------------------------------------------------
+ 

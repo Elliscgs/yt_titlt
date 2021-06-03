@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '337 則留言', 'Desc': '107年胡適院長講座\n\n主講人：主講人：李匡悌博士（106年度胡適紀念研究講座得獎人、本院歷史語言研究所研究員）\n主持人：本院黃進興副院長\n\n這裡是哪裡？我們是誰？臺灣考古學研究的觀察\nWhere are we? Who are we? New light on Taiwan Prehistory', 'DisLikes': '253', 'Duration': '0:18', 'Likes': '882', 'Publish_Date': '2019年3月22日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '這裡是哪裡？我們是誰？臺灣考古學研究的觀察｜歷史語言研究所 李匡悌研究員', 'Views': '觀看次數：176,726次'}
+ 
+--------------------------------------------------------------------------------
+ 

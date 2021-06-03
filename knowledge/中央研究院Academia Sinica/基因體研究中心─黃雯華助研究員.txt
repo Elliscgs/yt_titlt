@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '', 'DisLikes': '0', 'Duration': '2:34', 'Likes': '5', 'Publish_Date': '2018年9月4日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '基因體研究中心─黃雯華助研究員', 'Views': '觀看次數：569次'}
+ 
+--------------------------------------------------------------------------------
+ 

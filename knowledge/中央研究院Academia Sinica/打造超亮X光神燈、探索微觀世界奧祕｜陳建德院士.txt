@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '3 則留言', 'Desc': '107年朱家驊院長講座\n\n主講人：陳建德院士（國家同步輻射研究中心特聘研究員）\n主持人：周美吟副院長\n\n打造超亮X光神燈、探索微觀世界奧祕\nBuilding a Super Bright X-ray Source and Exploring the Mystery of Microscopic World', 'DisLikes': '2', 'Duration': '2:03:29', 'Likes': '31', 'Publish_Date': '串流直播日期：2018年5月25日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '打造超亮X光神燈、探索微觀世界奧祕｜陳建德院士', 'Views': '觀看次數：1,204次'}
+ 
+--------------------------------------------------------------------------------
+ 

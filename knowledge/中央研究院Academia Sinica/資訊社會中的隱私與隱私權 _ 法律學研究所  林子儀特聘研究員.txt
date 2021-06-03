@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '106年9月知識饗宴\n\n主講人：林子儀特聘研究員兼所長(本院法律學研究所)\n主持人：本院黃進興副院長\n\n資訊社會中的隱私與隱私權\nPrivacy in the Information Society', 'DisLikes': '5', 'Duration': '2:06:38', 'Likes': '16', 'Publish_Date': '2018年1月11日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '資訊社會中的隱私與隱私權 | 法律學研究所  林子儀特聘研究員', 'Views': '觀看次數：1,953次'}
+ 
+--------------------------------------------------------------------------------
+ 

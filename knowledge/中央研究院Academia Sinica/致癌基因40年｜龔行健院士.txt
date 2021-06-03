@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': "106年吳大猷院長講座\n\n主講人：龔行健院士(國家衛生研究院)\n主持人：劉扶東副院長\n\n致癌基因40年\n40 Years' Oncogene Research", 'DisLikes': '2', 'Duration': '2:13:34', 'Likes': '16', 'Publish_Date': '串流直播日期：2017年9月29日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '致癌基因40年｜龔行健院士', 'Views': '觀看次數：1,113次'}
+ 
+--------------------------------------------------------------------------------
+ 

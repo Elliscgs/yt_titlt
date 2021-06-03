@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '1 則留言', 'Desc': '主講人：洪上程特聘研究員（本院基因體研究中心）\n主持人：陳建仁副院長', 'DisLikes': '0', 'Duration': '1:52:03', 'Likes': '5', 'Publish_Date': '2017年6月12日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '『醣』聞軼趣｜基因體研究中心  洪上程特聘研究員', 'Views': '觀看次數：472次'}
+ 
+--------------------------------------------------------------------------------
+ 

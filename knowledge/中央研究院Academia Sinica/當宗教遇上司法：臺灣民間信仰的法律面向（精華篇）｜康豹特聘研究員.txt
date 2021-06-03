@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '5 則留言', 'Desc': '講者：中研院近代史研究所康豹特聘研究員\n\n後製剪輯：Art Jung\n\n參考資料：\n\n1.東港王船照片 : 昇典影像  www.dantw.com\n2.黑白無常照 : https://www.flickr.com/photos/albert_... 七爺\nhttps://www.flickr.com/photos/cktzeng... 八爺\n3.八家將 :\nhttps://zh.wikipedia.org/wiki/File:%E...\n4.新莊地藏庵 斜景:\nhttps://zh.wikipedia.org/wiki/File:新莊...', 'DisLikes': '3', 'Duration': '5:02', 'Likes': '169', 'Publish_Date': '2019年10月6日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '當宗教遇上司法：臺灣民間信仰的法律面向（精華篇）｜康豹特聘研究員', 'Views': '觀看次數：3,840次'}
+ 
+--------------------------------------------------------------------------------
+ 

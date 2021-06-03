@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '225 則留言', 'Desc': '107年6月份知識饗宴\n\n主講人：黃克武特聘研究員(本院近代史研究所)\n主持人：黃進興副院長\n\n胡適與李敖：臺灣兩代自由主義者之間的交往\nHu Shi and Li Ao: The Friendship between Two Liberals in Contemporary Taiwan', 'DisLikes': '171', 'Duration': '0:20', 'Likes': '925', 'Publish_Date': '串流直播日期：2018年6月19日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '胡適與李敖：臺灣兩代自由主義者之間｜近代史研究所 黃克武特聘研究員', 'Views': '觀看次數：174,345次'}
+ 
+--------------------------------------------------------------------------------
+ 

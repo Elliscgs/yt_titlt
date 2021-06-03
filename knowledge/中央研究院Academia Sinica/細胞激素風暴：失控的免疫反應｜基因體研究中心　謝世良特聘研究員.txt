@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '3 則留言', 'Desc': '107年2月份知識饗宴 \n\n主講人：謝世良特聘研究員(本院基因體研究中心)\n主持人：劉扶東副院長\n\n細胞激素風暴：失控的免疫反應\nCytokine Storm: Dysregulated Immune Responses', 'DisLikes': '2', 'Duration': '1:25:38', 'Likes': '53', 'Publish_Date': '2018年5月24日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '細胞激素風暴：失控的免疫反應｜基因體研究中心\u3000謝世良特聘研究員', 'Views': '觀看次數：4,940次'}
+ 
+--------------------------------------------------------------------------------
+ 

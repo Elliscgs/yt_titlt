@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '107年4月份知識饗宴\n\n主講人：程毅豪研究員(本院統計科學研究所)\n主持人：周美吟副院長\n\n統計學在做些什麼? 以地震風險評估與不同資料庫的整合分析為例\nWhat does Statistics do? Taking seismic hazards assessments and data analysis integrating separate databases as examples', 'DisLikes': '0', 'Duration': '2:07:32', 'Likes': '12', 'Publish_Date': '串流直播日期：2018年4月24日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '統計學在做些什麼? 以地震風險評估與不同資料庫的整合分析為例｜程毅豪研究員', 'Views': '觀看次數：754次'}
+ 
+--------------------------------------------------------------------------------
+ 

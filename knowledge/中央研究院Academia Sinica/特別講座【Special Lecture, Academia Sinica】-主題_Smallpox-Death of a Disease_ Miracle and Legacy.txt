@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '特別講座【Special Lecture, Academia Sinica】\n日期/2012-09-28  \n地點/Academia Sinica\n主題/Smallpox-Death of a Disease: Miracle and Legacy\n主講人/ Dr. Donald A. Henderson (1986年美國國家科學獎章得主)', 'DisLikes': '0', 'Duration': '1:30:10', 'Likes': '1', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '特別講座【Special Lecture, Academia Sinica】-主題/Smallpox-Death of a Disease: Miracle and Legacy', 'Views': '觀看次數：79次'}
+ 
+--------------------------------------------------------------------------------
+ 

@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '7 則留言', 'Desc': 'slido網址：\nhttps://sli.do/00603\n會議室號碼：00603', 'DisLikes': '22', 'Duration': '2:48:54', 'Likes': '136', 'Publish_Date': '串流直播日期：2020年6月2日', 'Subscribers': '5.72萬 位訂閱者', 'Title': 'AI與民主學術研討會', 'Views': '觀看次數：32,668次'}
+ 
+--------------------------------------------------------------------------------
+ 

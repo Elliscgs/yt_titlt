@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '主講人：朱國瑞院士（國立臺灣大學物理系特聘研究講座）\n主持人：王瑜副院長', 'DisLikes': '0', 'Duration': '1:34:54', 'Likes': '11', 'Publish_Date': '2017年6月9日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '高功率微波–現況及前景｜國立臺灣大學物理系  朱國瑞院士', 'Views': '觀看次數：442次'}
+ 
+--------------------------------------------------------------------------------
+ 

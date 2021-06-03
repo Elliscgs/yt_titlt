@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '1 則留言', 'Desc': '106年4月知識饗宴\n\n主講人：尤嘯華副研究員(本院化學研究所)\n主持人：本院周美吟副院長\n\n有機生物電子 - 電子元件和生物醫學的的結合\nOrganic Bioelectronics - Marriage between Electronics with Biomedicine', 'DisLikes': '0', 'Duration': '1:57:13', 'Likes': '9', 'Publish_Date': '2017年5月10日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '有機生物電子 - 電子元件和生物醫學的的結合 | 化學研究所  尤嘯華副研究員', 'Views': '觀看次數：720次'}
+ 
+--------------------------------------------------------------------------------
+ 

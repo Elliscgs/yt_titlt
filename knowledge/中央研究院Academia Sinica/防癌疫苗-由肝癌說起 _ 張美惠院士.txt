@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '104年8月知識饗宴\n\n主講人：張美惠院士(臺灣大學醫學院特聘講座教授)\n主持人：陳建仁副院長', 'DisLikes': '0', 'Duration': '2:01:32', 'Likes': '6', 'Publish_Date': '2017年5月31日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '防癌疫苗-由肝癌說起 | 張美惠院士', 'Views': '觀看次數：338次'}
+ 
+--------------------------------------------------------------------------------
+ 

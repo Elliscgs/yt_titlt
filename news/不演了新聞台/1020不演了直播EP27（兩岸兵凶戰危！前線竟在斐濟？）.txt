@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCRvjnobFht8a6vW4BFVl1xQ', 'ChannelName': '不演了新聞台', 'Comments': '207 則留言', 'Desc': '', 'DisLikes': '41', 'Duration': '3:14', 'Likes': '2521', 'Publish_Date': '串流直播日期：2020年10月20日', 'Subscribers': '4.93萬 位訂閱者', 'Title': '1020不演了直播EP27（兩岸兵凶戰危！前線竟在斐濟？）', 'Views': '觀看次數：17,167次'}
+ 
+--------------------------------------------------------------------------------
+ 

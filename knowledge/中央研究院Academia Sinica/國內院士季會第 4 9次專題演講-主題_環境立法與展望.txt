@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '國內院士季會第 4 9次專題演講\n主題/環境立法與展望\n主講人/邱文彥博士(立法委員)', 'DisLikes': '0', 'Duration': '1:54:23', 'Likes': '3', 'Publish_Date': '2020年7月29日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '國內院士季會第 4 9次專題演講-主題/環境立法與展望', 'Views': '觀看次數：60次'}
+ 
+--------------------------------------------------------------------------------
+ 

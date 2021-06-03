@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '2018院士會議演講\n-\n人工智能的科技內涵\n\n主講人：莊炳湟院士', 'DisLikes': '0', 'Duration': '55:17', 'Likes': '18', 'Publish_Date': '2019年2月25日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '人工智能的科技內涵｜莊炳湟院士', 'Views': '觀看次數：1,352次'}
+ 
+--------------------------------------------------------------------------------
+ 

@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '中央研究院講座【Academia Sinica Lecture】\n日期/2018-10-18  \n地點/Academia Sinica\n主題/Imaging Biological Structure and Dynamics from Molecules to Organisms\n主講人/Dr. Eric Betzig(2014年諾貝爾化學獎得主)', 'DisLikes': '1', 'Duration': '1:00:29', 'Likes': '9', 'Publish_Date': '2020年7月30日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '中央研究院講座【Academia Sinica Lecture】-主題/Imaging Biological Structure and Dynamics from Molecules', 'Views': '觀看次數：167次'}
+ 
+--------------------------------------------------------------------------------
+ 

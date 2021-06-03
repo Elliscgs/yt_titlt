@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '1 則留言', 'Desc': '103年4月知識饗宴\n\n「奈米時代的醫學影像」\n\n主講人：胡宇光研究員(本院物理研究所)\n主持人：王瑜副院長', 'DisLikes': '0', 'Duration': '1:44:02', 'Likes': '0', 'Publish_Date': '2017年6月7日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '奈米時代的醫學影像｜物理研究所\u3000胡宇光研究員', 'Views': '觀看次數：139次'}
+ 
+--------------------------------------------------------------------------------
+ 

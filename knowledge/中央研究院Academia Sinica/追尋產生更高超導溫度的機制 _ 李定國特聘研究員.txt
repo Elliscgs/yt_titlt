@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '0 則留言', 'Desc': '104年7月知識饗宴\n\n主講人：李定國特聘研究員兼所長(本院物理研究所)\n主持人：王瑜副院長', 'DisLikes': '1', 'Duration': '1:46:40', 'Likes': '12', 'Publish_Date': '2017年5月31日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '追尋產生更高超導溫度的機制 | 李定國特聘研究員', 'Views': '觀看次數：555次'}
+ 
+--------------------------------------------------------------------------------
+ 

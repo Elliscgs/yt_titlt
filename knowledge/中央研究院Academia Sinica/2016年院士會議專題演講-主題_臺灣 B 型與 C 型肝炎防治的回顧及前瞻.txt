@@ -1,0 +1,4 @@
+{'ChannelLink': '/channel/UCPk594oZYMU4Eak7By5wHyQ', 'ChannelName': '中央研究院Academia Sinica', 'Comments': '1 則留言', 'Desc': '2016年院士會議專題演講\n主題/臺灣 B 型與 C 型肝炎防治的回顧及前瞻\n主講人/陳定信院士', 'DisLikes': '0', 'Duration': '57:31', 'Likes': '2', 'Publish_Date': '2020年7月29日', 'Subscribers': '5.72萬 位訂閱者', 'Title': '2016年院士會議專題演講-主題/臺灣 B 型與 C 型肝炎防治的回顧及前瞻', 'Views': '觀看次數：167次'}
+ 
+--------------------------------------------------------------------------------
+ 
